@@ -23,8 +23,8 @@ To implement Moving Average Model using python programming.
 
 ### PROGRAM:
 ```
-Developed By : G Venkata Pavan Kumar
-Reg no. : 212221240013
+Developed By : A JOANS JAY AUTHERS
+Reg no. : 212221240019
 ```
 ```python
 # Importing Packages
